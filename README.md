@@ -1,2 +1,2 @@
 # MovFSG
-Mover imagen usando sensores
+Mover imagen usando sensores en Android.
